@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Python",
+    "type": "hard",
+    "aliases": [ "python", "py", "python3", "питон", "пайтон", "python2", "python3.x", "py3", "py2" ]
+  },
+  {
+    "id": 2,
+    "name": "PostgreSQL",
+    "type": "hard",
+    "aliases": [ "postgresql", "postgres", "постгрес", "pg", "psql", "постгресс", "postgres sql", "postgresql 12", "postgresql 13", "postgresql 14", "postgresql 15" ]
+  },
+  {
+    "id": 3,
+    "name": "Docker",
+    "type": "hard",
+    "aliases": [ "docker", "докер", "docker-compose", "контейнеризация", "dockerfile", "dockerized", "докеризация" ]
+  },
+  {
+    "id": 4,
+    "name": "Git",
+    "type": "hard",
+    "aliases": [ "git", "гит", "gitflow", "vcs", "система контроля версий", "gitcli", "git bash" ]
+  },
+  {
+    "id": 5,
+    "name": "MySQL",
+    "type": "hard",
+    "aliases": [ "mysql", "майскуэль", "мускул", "my sql", "mariadb", "мискуэль" ]
+  },
+  {
+    "id": 6,
+    "name": "Django",
+    "type": "hard",
+    "aliases": [ "django", "джанго", "drf", "django rest framework", "джанго рест" ]
+  },
+  {
+    "id": 7,
+    "name": "FastAPI",
+    "type": "hard",
+    "aliases": [ "fastapi", "фастапи", "fast api", "фаст апи" ]
+  },
+  {
+    "id": 8,
+    "name": "SQL",
+    "type": "hard",
+    "aliases": [ "sql", "эскуэль", "сиквел", "запросы sql", "structured query language", "эскуел" ]
+  },
+  {
+    "id": 9,
+    "name": "Linux",
+    "type": "hard",
+    "aliases": [ "linux", "ubuntu", "линукс", "debian", "centos", "unix", "юникс", "линукс сервер" ]
+  },
+  {
+    "id": 10,
+    "name": "Redis",
+    "type": "hard",
+    "aliases": [ "redis", "редис", "кэширование redis", "key-value store" ]
+  },
+  {
+    "id": 11,
+    "name": "JavaScript",
+    "type": "hard",
+    "aliases": [ "javascript", "js", "джаваскрипт", "ecmascript", "es6", "es6+", "яваскрипт" ]
+  },
+  {
+    "id": 12,
+    "name": "TypeScript",
+    "type": "hard",
+    "aliases": [ "typescript", "ts", "тайпскрипт", "таипскрипт" ]
+  },
+  {
+    "id": 13,
+    "name": "React",
+    "type": "hard",
+    "aliases": [ "react", "reactjs", "реакт", "react.js", "react native", "реакт джс" ]
+  },
+  {
+    "id": 14,
+    "name": "MS Word",
+    "type": "hard",
+    "aliases": [ "word", "ms word", "ворд", "microsoft word", "ms office word", "майкрософт ворд" ]
+  },
+  {
+    "id": 15,
+    "name": "Node.js",
+    "type": "hard",
+    "aliases": [ "node", "nodejs", "нода", "node.js", "ноде джс" ]
+  },
+  {
+    "id": 16,
+    "name": "HTML/CSS",
+    "type": "hard",
+    "aliases": [ "html", "css", "верстка", "html5", "css3", "веб-верстка", "верстка сайтов", "html/css" ]
+  },
+  {
+    "id": 17,
+    "name": "C++",
+    "type": "hard",
+    "aliases": [ "c++", "cpp", "плюсы", "си плюс плюс", "си++", "c plus plus" ]
+  },
+  {
+    "id": 18,
+    "name": "Java",
+    "type": "hard",
+    "aliases": [ "java", "джава", "яава", "ява", "jdk", "jre" ]
+  },
+  {
+    "id": 19,
+    "name": "C#",
+    "type": "hard",
+    "aliases": [ "c#", "csharp", "си шарп", "си-шарп", "c sharp", "net", ".net", "дотнет" ]
+  },
+  {
+    "id": 20,
+    "name": "Go",
+    "type": "hard",
+    "aliases": [ "golang", "go", "го", "голанг", "go lang" ]
+  },
+  {
+    "id": 21,
+    "name": "Pandas",
+    "type": "hard",
+    "aliases": [ "pandas", "пандас", "pd" ]
+  },
+  {
+    "id": 22,
+    "name": "NumPy",
+    "type": "hard",
+    "aliases": [ "numpy", "нампай", "np" ]
+  },
+  {
+    "id": 23,
+    "name": "PyTorch",
+    "type": "hard",
+    "aliases": [ "pytorch", "торч", "пайторч", "пай торч" ]
+  },
+  {
+    "id": 24,
+    "name": "Postman",
+    "type": "hard",
+    "aliases": [ "postman", "постман", "тестирование api в postman" ]
+  },
+  {
+    "id": 25,
+    "name": "ООП",
+    "type": "hard",
+    "aliases": [ "ооп", "oop", "объектно-ориентированное программирование", "object oriented programming", "принципы ооп" ]
+  },
+  {
+    "id": 26,
+    "name": "REST API",
+    "type": "hard",
+    "aliases": [ "rest api", "restful", "rest", "рест апи", "рест", "restful api" ]
+  },
+  {
+    "id": 27,
+    "name": "NLP",
+    "type": "hard",
+    "aliases": [ "nlp", "обработка естественного языка", "natural language processing", "нлп" ]
+  },
+  {
+    "id": 28,
+    "name": "LLM",
+    "type": "hard",
+    "aliases": [ "llm", "large language models", "большие языковые модели", "ллм", "gpt" ]
+  },
+  {
+    "id": 29,
+    "name": "Computer Vision",
+    "type": "hard",
+    "aliases": [ "computer vision", "cv", "компьютерное зрение", "компутер вижн" ]
+  },
+  {
+    "id": 30,
+    "name": "GitHub",
+    "type": "hard",
+    "aliases": [ "github", "гитхаб", "гит хаб" ]
+  },
+  {
+    "id": 31,
+    "name": "CI/CD",
+    "type": "hard",
+    "aliases": [ "ci/cd", "ci-cd", "пайплайны", "непрерывная интеграция", "continuous integration", "сисиди", "си ай си ди" ]
+  },
+  {
+    "id": 32,
+    "name": "MongoDB",
+    "type": "hard",
+    "aliases": [ "mongodb", "mongo", "монго", "монгодаб" ]
+  },
+  {
+    "id": 33,
+    "name": "JSON",
+    "type": "hard",
+    "aliases": [ "json", "джейсон", "джесон" ]
+  },
+  {
+    "id": 34,
+    "name": "DevOps",
+    "type": "hard",
+    "aliases": [ "devops", "девопс", "dev ops", "девопс инженер" ]
+  },
+  {
+    "id": 35,
+    "name": "Unit Testing",
+    "type": "hard",
+    "aliases": [ "unit testing", "pytest", "юнит-тесты", "тестирование", "юнит тестирование", "unit tests", "юниттесты", "unittest" ]
+  },
+  {
+    "id": 36,
+    "name": "Figma",
+    "type": "hard",
+    "aliases": [ "figma", "фигма", "прототипирование в figma" ]
+  },
+  {
+    "id": 37,
+    "name": "1С",
+    "type": "hard",
+    "aliases": [ "1с", "1c", "один эс", "1с предприятие", "1с:предприятие", "1с программирование" ]
+  },
+  {
+    "id": 38,
+    "name": "Excel",
+    "type": "hard",
+    "aliases": [ "excel", "эксель", "vlookup", "впр", "ms excel", "microsoft excel", "таблицы excel" ]
+  },
+  {
+    "id": 39,
+    "name": "Анализ данных",
+    "type": "hard",
+    "aliases": [ "анализ данных", "data analysis", "аналитика", "дата аналитика", "анализ статистических данных", "data analytics" ]
+  },
+  {
+    "id": 40,
+    "name": "Bash",
+    "type": "hard",
+    "aliases": [ "bash", "shell", "баш", "скрипты bash", "shell scripts", "sh" ]
+  },
+  {
+    "id": 41,
+    "name": "Работа в команде",
+    "type": "soft",
+    "aliases": [ "командная работа", "teamwork", "работа в команде", "умение работать в команде", "работа в кросс-функциональной команде", "командный игрок" ]
+  },
+  {
+    "id": 42,
+    "name": "Тайм-менеджмент",
+    "type": "soft",
+    "aliases": [ "управление временем", "time management", "тайм-менеджмент", "тайм менеджмент", "умение планировать время", "приоритезация задач" ]
+  },
+  {
+    "id": 43,
+    "name": "Коммуникабельность",
+    "type": "soft",
+    "aliases": [ "коммуникабельность", "грамотная речь", "communication skills", "коммуникативные навыки", "навыки общения", "умение общаться", "коммуникация" ]
+  },
+  {
+    "id": 44,
+    "name": "Критическое мышление",
+    "type": "soft",
+    "aliases": [ "критическое мышление", "critical thinking", "аналитический склад ума", "критический анализ" ]
+  },
+  {
+    "id": 45,
+    "name": "Решение проблем",
+    "type": "soft",
+    "aliases": [ "problem solving", "решение проблем", "поиск решений", "решение сложных задач", "умение решать проблемы" ]
+  },
+  {
+    "id": 46,
+    "name": "Адаптивность",
+    "type": "soft",
+    "aliases": [ "гибкость", "адаптивность", "adaptability", "быстрая адаптация", "умение адаптироваться", "гибкость мышления" ]
+  },
+  {
+    "id": 47,
+    "name": "Обучаемость",
+    "type": "soft",
+    "aliases": [ "быстрая обучаемость", "готовность учиться", "fast learner", "способность к обучению", "желание учиться", "высокая обучаемость" ]
+  },
+  {
+    "id": 48,
+    "name": "Ответственность",
+    "type": "soft",
+    "aliases": [ "ответственность", "пунктуальность", "responsibility", "исполнительность", "высокая ответственность" ]
+  },
+  {
+    "id": 49,
+    "name": "Лидерство",
+    "type": "soft",
+    "aliases": [ "лидерские качества", "leadership", "лидерство", "лидерские навыки", "умение вести за собой" ]
+  },
+  {
+    "id": 50,
+    "name": "Английский язык",
+    "type": "soft",
+    "aliases": [ "english", "английский", "английский язык", "upper-intermediate", "b2", "c1", "intermediate", "разговорный английский", "технический английский", "english b2", "english c1" ]
+  }
+]
