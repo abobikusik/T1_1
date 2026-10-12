@@ -5,9 +5,7 @@ import pandas as pd
 from pathlib import Path
 from collections import defaultdict
 
-# ----------------------------------------------------------------------
 # 1. КОНФИГУРАЦИЯ И ПУТИ К ФАЙЛАМ
-# ----------------------------------------------------------------------
 BASE_DIR = Path(__file__).resolve().parent
 
 # Путь к словарю навыков
@@ -17,12 +15,7 @@ SKILLS_DICT_PATH = BASE_DIR / "datasets_and_skills" / "skills" / "skills_dict_v2
 VACANCIES_PATH = BASE_DIR / "datasets_and_skills" / "datasets" / "vacancies_ru.csv"
 RESUMES_PATH = BASE_DIR / "datasets_and_skills" / "datasets" / "resumes_ru.csv"
 
-
-
-
-# ----------------------------------------------------------------------
 # 2. УНИВЕРСАЛЬНАЯ ЗАГРУЗКА И НОРМАЛИЗАЦИЯ ДАННЫХ
-# ----------------------------------------------------------------------
 def load_dataset(file_path: Path):
     if not file_path.exists():
         raise FileNotFoundError(f"Файл не найден по пути: {file_path}")
@@ -114,9 +107,7 @@ def load_data(sample_size: int = 1000):
     return skills_dict, vacancies, resumes
 
 
-# ----------------------------------------------------------------------
 # 3. ИЗВЛЕЧЕНИЕ НАВЫКОВ И РАСЧЕТ TF-IDF
-# ----------------------------------------------------------------------
 def extract_skills(text: str, skills_dict: dict) -> set:
     if not text:
         return set()
@@ -153,9 +144,7 @@ def compute_skills_idf(resumes: list, skills_dict: dict) -> dict:
     return idf_weights
 
 
-# ----------------------------------------------------------------------
 # 4. ОСНОВНОЙ ПРОЦЕСС МЭТЧИНГА
-# ----------------------------------------------------------------------
 def run_matching(sample_size: int = 1000):
     skills_dict, vacancies, resumes = load_data(sample_size=sample_size)
     
