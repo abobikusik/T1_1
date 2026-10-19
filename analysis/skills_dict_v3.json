@@ -1,0 +1,5375 @@
+[
+  {
+    "id": 1,
+    "name": "Python",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "python",
+      "py",
+      "python3",
+      "питон",
+      "пайтон",
+      "python2",
+      "python3.x",
+      "py3",
+      "py2"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "PostgreSQL",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "postgresql",
+      "postgres",
+      "постгрес",
+      "pg",
+      "psql",
+      "постгресс",
+      "postgres sql",
+      "postgresql 12",
+      "postgresql 13",
+      "postgresql 14",
+      "postgresql 15"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Docker",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "docker",
+      "докер",
+      "docker-compose",
+      "контейнеризация",
+      "dockerfile",
+      "dockerized",
+      "докеризация"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Git",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "git",
+      "гит",
+      "gitflow",
+      "vcs",
+      "система контроля версий",
+      "gitcli",
+      "git bash"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "MySQL",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "mysql",
+      "майскуэль",
+      "мускул",
+      "my sql",
+      "mariadb",
+      "мискуэль"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Django",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "django",
+      "джанго",
+      "drf",
+      "django rest framework",
+      "джанго рест"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "FastAPI",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "fastapi",
+      "фастапи",
+      "fast api",
+      "фаст апи"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "SQL",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "sql",
+      "эскуэль",
+      "сиквел",
+      "запросы sql",
+      "structured query language",
+      "эскуел"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Linux",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "linux",
+      "ubuntu",
+      "линукс",
+      "debian",
+      "centos",
+      "unix",
+      "юникс",
+      "линукс сервер"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Redis",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "redis",
+      "редис",
+      "кэширование redis",
+      "key-value store"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "JavaScript",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "javascript",
+      "js",
+      "джаваскрипт",
+      "ecmascript",
+      "es6",
+      "es6+",
+      "яваскрипт"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "TypeScript",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "typescript",
+      "ts",
+      "тайпскрипт",
+      "таипскрипт"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "React",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "react",
+      "reactjs",
+      "реакт",
+      "react.js",
+      "react native",
+      "реакт джс"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "MS Word",
+    "type": "hard",
+    "category": "Офисные инструменты & Корпоративное ПО",
+    "aliases": [
+      "word",
+      "ms word",
+      "ворд",
+      "microsoft word",
+      "ms office word",
+      "майкрософт ворд"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Node.js",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "node",
+      "nodejs",
+      "нода",
+      "node.js",
+      "ноде джс"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "HTML/CSS",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "html",
+      "css",
+      "верстка",
+      "html5",
+      "css3",
+      "веб-верстка",
+      "верстка сайтов",
+      "html/css"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "C++",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "c++",
+      "cpp",
+      "плюсы",
+      "си плюс плюс",
+      "си++",
+      "c plus plus"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Java",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "java",
+      "джава",
+      "яава",
+      "ява",
+      "jdk",
+      "jre"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "C#",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "c#",
+      "csharp",
+      "си шарп",
+      "си-шарп",
+      "c sharp",
+      "net",
+      ".net",
+      "дотнет"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Go",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "golang",
+      "go",
+      "го",
+      "голанг",
+      "go lang"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Pandas",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "pandas",
+      "пандас",
+      "pd"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "NumPy",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "numpy",
+      "нампай",
+      "np"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "PyTorch",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "pytorch",
+      "торч",
+      "пайторч",
+      "пай торч"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Postman",
+    "type": "hard",
+    "category": "Тестирование (QA)",
+    "aliases": [
+      "postman",
+      "постман",
+      "тестирование api в postman"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "ООП",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "ооп",
+      "oop",
+      "объектно-ориентированное программирование",
+      "object oriented programming",
+      "принципы ооп"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "REST API",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "rest api",
+      "restful",
+      "rest",
+      "рест апи",
+      "рест",
+      "restful api"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "NLP",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "nlp",
+      "обработка естественного языка",
+      "natural language processing",
+      "нлп"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "LLM",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "llm",
+      "large language models",
+      "большие языковые модели",
+      "ллм",
+      "gpt"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Computer Vision",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "computer vision",
+      "cv",
+      "компьютерное зрение",
+      "компутер вижн"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "GitHub",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "github",
+      "гитхаб",
+      "гит хаб"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "CI/CD",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "ci/cd",
+      "ci-cd",
+      "пайплайны",
+      "непрерывная интеграция",
+      "continuous integration",
+      "сисиди",
+      "си ай си ди"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "MongoDB",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "mongodb",
+      "mongo",
+      "монго",
+      "монгодаб"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "JSON",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "json",
+      "джейсон",
+      "джесон"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "DevOps",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "devops",
+      "девопс",
+      "dev ops",
+      "девопс инженер"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Unit Testing",
+    "type": "hard",
+    "category": "Тестирование (QA)",
+    "aliases": [
+      "unit testing",
+      "pytest",
+      "юнит-тесты",
+      "тестирование",
+      "юнит тестирование",
+      "unit tests",
+      "юниттесты",
+      "unittest"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Figma",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "figma",
+      "фигма",
+      "прототипирование в figma"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "1С",
+    "type": "hard",
+    "category": "Офисные инструменты & Корпоративное ПО",
+    "aliases": [
+      "1с",
+      "1c",
+      "один эс",
+      "1с предприятие",
+      "1с:предприятие",
+      "1с программирование"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Excel",
+    "type": "hard",
+    "category": "Офисные инструменты & Корпоративное ПО",
+    "aliases": [
+      "excel",
+      "эксель",
+      "vlookup",
+      "впр",
+      "ms excel",
+      "microsoft excel",
+      "таблицы excel"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Анализ данных",
+    "type": "hard",
+    "category": "Аналитика данных & Продукт",
+    "aliases": [
+      "анализ данных",
+      "data analysis",
+      "аналитика",
+      "дата аналитика",
+      "анализ статистических данных",
+      "data analytics"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Bash",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "bash",
+      "shell",
+      "баш",
+      "скрипты bash",
+      "shell scripts",
+      "sh"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Работа в команде",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "командная работа",
+      "teamwork",
+      "работа в команде",
+      "умение работать в команде",
+      "работа в кросс-функциональной команде",
+      "командный игрок"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Тайм-менеджмент",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "управление временем",
+      "time management",
+      "тайм-менеджмент",
+      "тайм менеджмент",
+      "умение планировать время",
+      "приоритезация задач"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Коммуникабельность",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "коммуникабельность",
+      "грамотная речь",
+      "communication skills",
+      "коммуникативные навыки",
+      "навыки общения",
+      "умение общаться",
+      "коммуникация",
+      "communication",
+      "interpersonal skills",
+      "verbal communication",
+      "written communication",
+      "interpersonal"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Критическое мышление",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "критическое мышление",
+      "critical thinking",
+      "аналитический склад ума",
+      "критический анализ"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Решение проблем",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "problem solving",
+      "решение проблем",
+      "поиск решений",
+      "решение сложных задач",
+      "умение решать проблемы",
+      "decision making",
+      "problem-solving",
+      "принятие решений"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Адаптивность",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "гибкость",
+      "адаптивность",
+      "adaptability",
+      "быстрая адаптация",
+      "умение адаптироваться",
+      "гибкость мышления"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Обучаемость",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "быстрая обучаемость",
+      "готовность учиться",
+      "fast learner",
+      "способность к обучению",
+      "желание учиться",
+      "высокая обучаемость"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Ответственность",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "ответственность",
+      "пунктуальность",
+      "responsibility",
+      "исполнительность",
+      "высокая ответственность"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Лидерство",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "лидерские качества",
+      "leadership",
+      "лидерство",
+      "лидерские навыки",
+      "умение вести за собой"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Английский язык",
+    "type": "soft",
+    "category": "Иностранные языки",
+    "aliases": [
+      "english",
+      "английский",
+      "английский язык",
+      "upper-intermediate",
+      "b2",
+      "c1",
+      "intermediate",
+      "разговорный английский",
+      "технический английский",
+      "english b2",
+      "english c1"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Kubernetes",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "kubernetes",
+      "k8s",
+      "кубернетес"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Apache Airflow",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "airflow",
+      "apache airflow",
+      "аирфлоу"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Apache Spark",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "spark",
+      "apache spark",
+      "писпарк"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Apache Kafka",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "kafka",
+      "apache kafka",
+      "кафка"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "RabbitMQ",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "rabbitmq",
+      "кролик"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Celery",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "celery",
+      "селери"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Flask",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "flask",
+      "фласк"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Spring",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "spring",
+      "spring boot",
+      "spring framework",
+      "спринг"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Vue.js",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "vue",
+      "vue.js",
+      "vuejs",
+      "вью"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Angular",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "angular",
+      "angularjs",
+      "ангуляр"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Next.js",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "next.js",
+      "nextjs",
+      "некст"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "GraphQL",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "graphql"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "gRPC",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "grpc"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "WebSockets",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "websocket",
+      "websockets",
+      "вебсокет"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "PHP",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "php",
+      "php7",
+      "php 8",
+      "пхп"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Laravel",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "laravel"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Symfony",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "symfony",
+      "симфони"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Ruby",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "ruby",
+      "ruby on rails",
+      "руби"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Rust",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "rust",
+      "rustlang",
+      "раст"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Kotlin",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "kotlin",
+      "котлин"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Swift",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "swift",
+      "свифт"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Dart",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "dart"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Flutter",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "flutter",
+      "флаттер"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "ASP.NET",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "asp.net",
+      "aspnet",
+      ".net core",
+      "asp.net core",
+      "асп нет"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Unity",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "unity",
+      "unity3d",
+      "юнити"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Unreal Engine",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "unreal engine",
+      "unreal",
+      "анриал"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Blender",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "blender",
+      "блендер"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "TensorFlow",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "tensorflow",
+      "tf"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "scikit-learn",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "scikit-learn",
+      "sklearn",
+      "скилерн"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Keras",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "keras",
+      "керас"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "XGBoost",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "xgboost"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "LightGBM",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "lightgbm"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "OpenCV",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "opencv"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Matplotlib",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "matplotlib"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Seaborn",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "seaborn"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Polars",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "polars"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Apache Hadoop",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "hadoop",
+      "apache hadoop"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Apache Hive",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "hive",
+      "apache hive"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "ClickHouse",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "clickhouse",
+      "кликхаус"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Elasticsearch",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "elasticsearch",
+      "elastic stack",
+      "elk",
+      "эластик"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Kibana",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "kibana"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "SQLite",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "sqlite"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Neo4j",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "neo4j"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Apache Cassandra",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "cassandra",
+      "apache cassandra"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Векторные БД",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "faiss",
+      "qdrant",
+      "milvus",
+      "chroma",
+      "pinecone",
+      "pgvector",
+      "векторная база",
+      "vector database"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Selenium",
+    "type": "hard",
+    "category": "Тестирование (QA)",
+    "aliases": [
+      "selenium",
+      "селенум"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Playwright",
+    "type": "hard",
+    "category": "Тестирование (QA)",
+    "aliases": [
+      "playwright"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Cypress",
+    "type": "hard",
+    "category": "Тестирование (QA)",
+    "aliases": [
+      "cypress"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Jest",
+    "type": "hard",
+    "category": "Тестирование (QA)",
+    "aliases": [
+      "jest"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "JUnit",
+    "type": "hard",
+    "category": "Тестирование (QA)",
+    "aliases": [
+      "junit"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "GitLab",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "gitlab",
+      "гитлаб"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Jenkins",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "jenkins",
+      "дженкинс"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Ansible",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "ansible",
+      "ансибл"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Terraform",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "terraform",
+      "терраформ"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Grafana",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "grafana"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Prometheus",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "prometheus",
+      "прометеус"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Zabbix",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "zabbix"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Sentry",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "sentry"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Jira",
+    "type": "hard",
+    "category": "HR & Управление (Management)",
+    "aliases": [
+      "jira",
+      "джира",
+      "atlassian jira",
+      "atlassian",
+      "jira software"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Confluence",
+    "type": "hard",
+    "category": "Офисные инструменты & Корпоративное ПО",
+    "aliases": [
+      "confluence",
+      "конфлюенс"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Trello",
+    "type": "hard",
+    "category": "HR & Управление (Management)",
+    "aliases": [
+      "trello"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Notion",
+    "type": "hard",
+    "category": "Офисные инструменты & Корпоративное ПО",
+    "aliases": [
+      "notion"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Slack",
+    "type": "hard",
+    "category": "Офисные инструменты & Корпоративное ПО",
+    "aliases": [
+      "slack",
+      "слак"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Битрикс24",
+    "type": "hard",
+    "category": "Офисные инструменты & Корпоративное ПО",
+    "aliases": [
+      "bitrix",
+      "bitrix24",
+      "1c-bitrix",
+      "битрикс"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Salesforce",
+    "type": "hard",
+    "category": "Продажи & Работа с клиентами",
+    "aliases": [
+      "salesforce",
+      "salesforce crm"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "SAP",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "sap erp",
+      "sap hana",
+      "sap b1",
+      "sap s/4",
+      "sap s4",
+      "сап"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Oracle",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "oracle database",
+      "oracle sql",
+      "oracle db",
+      "oracle",
+      "оракл"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "AWS",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "aws",
+      "amazon web services",
+      "amazon s3",
+      "amazon ec2",
+      "амазон"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Microsoft Azure",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "azure",
+      "microsoft azure",
+      "азур"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Google Cloud",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "gcp",
+      "google cloud platform",
+      "google cloud"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Yandex Cloud",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "yandex cloud",
+      "yc"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Nginx",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "nginx",
+      "нгинкс"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Микросервисы",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "микросервис",
+      "микросервисы",
+      "микро-сервис",
+      "microservices"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Виртуализация",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "виртуализаци",
+      "virtualization",
+      "vmware",
+      "virtualbox",
+      "proxmox"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Active Directory",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "active directory",
+      "ad"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Machine Learning",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "machine learning",
+      "машинное обучение",
+      "машинного обучения",
+      "мл"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Deep Learning",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "deep learning",
+      "глубокое обучение",
+      "глубокого обучения"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Нейросети",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "нейросет",
+      "нейронная сеть",
+      "нейронные сети",
+      "нейронных сетей"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Data Science",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "data science",
+      "дата сайнс",
+      "дата сайенс"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Data Engineering",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "data engineering",
+      "дата инжиниринг"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "ETL",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "etl",
+      "extract transform load"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Power BI",
+    "type": "hard",
+    "category": "Аналитика данных & Продукт",
+    "aliases": [
+      "power bi",
+      "powerbi",
+      "пауэр би"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Tableau",
+    "type": "hard",
+    "category": "Аналитика данных & Продукт",
+    "aliases": [
+      "tableau",
+      "табло"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Metabase",
+    "type": "hard",
+    "category": "Аналитика данных & Продукт",
+    "aliases": [
+      "metabase",
+      "superset"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Парсинг данных",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "парсинг",
+      "парсинга",
+      "парсер",
+      "scraping",
+      "скрапинг"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Регулярные выражения",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "regex",
+      "регулярные выражения",
+      "регулярных выражений"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "TCP/IP",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "tcp/ip",
+      "tcp ip"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "DNS",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "dns"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "DHCP",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "dhcp"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "VPN",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "vpn",
+      "впн"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "SSH",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "ssh"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Cisco",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "cisco",
+      "циско"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "MikroTik",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "mikrotik",
+      "микротик"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Wireshark",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "wireshark"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Kali Linux",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "kali linux",
+      "kali"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Burp Suite",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "burp suite",
+      "burp"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "SIEM",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "siem",
+      "splunk",
+      "maxpatrol"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Информационная безопасность",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "информационная безопасность",
+      "инфобезопасность",
+      "cybersecurity",
+      "кибербезопасность",
+      "информационной безопасности"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Пентестинг",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "пентест",
+      "pentest",
+      "penetration testing",
+      "пентестинг"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Тестирование / QA",
+    "type": "hard",
+    "category": "Тестирование (QA)",
+    "aliases": [
+      "qa-инженер",
+      "qa инженер",
+      "qa-специалист",
+      "quality assurance",
+      "quality control",
+      "тестировщик"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Автоматизация тестирования",
+    "type": "hard",
+    "category": "Тестирование (QA)",
+    "aliases": [
+      "автоматизация тестирования",
+      "автоматизации тестирования",
+      "автотесты",
+      "автотестов"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "PowerPoint",
+    "type": "hard",
+    "category": "Офисные инструменты & Корпоративное ПО",
+    "aliases": [
+      "powerpoint",
+      "ms powerpoint",
+      "пауэр поинт"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Microsoft Outlook",
+    "type": "hard",
+    "category": "Офисные инструменты & Корпоративное ПО",
+    "aliases": [
+      "outlook",
+      "ms outlook",
+      "аутлук"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Google Workspace",
+    "type": "hard",
+    "category": "Офисные инструменты & Корпоративное ПО",
+    "aliases": [
+      "google docs",
+      "google sheets",
+      "google workspace",
+      "гугл докс",
+      "гугл таблицы"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Управление проектами",
+    "type": "hard",
+    "category": "HR & Управление (Management)",
+    "aliases": [
+      "управление проектами",
+      "управлению проектами",
+      "управления проектами",
+      "project management",
+      "проектный менеджмент",
+      "pmp",
+      "prince2",
+      "pmi",
+      "stakeholder management",
+      "stakeholder engagement"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Agile",
+    "type": "hard",
+    "category": "HR & Управление (Management)",
+    "aliases": [
+      "agile",
+      "аджайл"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Scrum",
+    "type": "hard",
+    "category": "HR & Управление (Management)",
+    "aliases": [
+      "scrum",
+      "скрам"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Kanban",
+    "type": "hard",
+    "category": "HR & Управление (Management)",
+    "aliases": [
+      "kanban",
+      "канбан"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Lean",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "lean",
+      "бережливое производство",
+      "six sigma",
+      "lean six sigma",
+      "kaizen",
+      "continuous improvement",
+      "process improvement"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Бизнес-анализ",
+    "type": "hard",
+    "category": "Аналитика данных & Продукт",
+    "aliases": [
+      "бизнес-анализ",
+      "бизнес анализ",
+      "business analysis",
+      "системный анализ",
+      "системный аналитик",
+      "бизнес-аналитик"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Финансовый анализ",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "финансовый анализ",
+      "финансового анализа",
+      "financial analysis",
+      "финмоделирование",
+      "финансовая модель",
+      "financial modelling",
+      "financial modeling"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Бухгалтерия",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "бухгалтерия",
+      "бухгалтерии",
+      "бухгалтерский учет",
+      "бухгалтерского учета",
+      "accounting"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Налоги",
+    "type": "hard",
+    "category": "Юриспруденция & Комплаенс",
+    "aliases": [
+      "налоги",
+      "налоговый",
+      "налоговое",
+      "налоговая",
+      "налогообложение",
+      "tax"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Юриспруденция",
+    "type": "hard",
+    "category": "Юриспруденция & Комплаенс",
+    "aliases": [
+      "юриспруденция",
+      "юридический",
+      "юридическая",
+      "юриспруденции",
+      "юрист",
+      "legal",
+      "corporate law",
+      "business law",
+      "employment law",
+      "labor law",
+      "legal research",
+      "legal writing"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Договорная работа",
+    "type": "hard",
+    "category": "Юриспруденция & Комплаенс",
+    "aliases": [
+      "договорная работа",
+      "договоров",
+      "договоры",
+      "договора",
+      "contract management",
+      "contract administration"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Закупки",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "закупки",
+      "закупок",
+      "закупочная",
+      "procurement",
+      "vendor management",
+      "supplier management",
+      "vendor relations"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Логистика",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "логистика",
+      "логистик",
+      "logistics",
+      "логистических"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Маркетинг",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "маркетинг",
+      "маркетинга",
+      "маркетингу",
+      "marketing",
+      "digital marketing",
+      "performance marketing",
+      "digital маркетинг"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "SMM",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "smm",
+      "смм",
+      "smm-",
+      "соц.сети",
+      "социальные сети",
+      "соц сетей",
+      "инстаграм",
+      "телеграм",
+      "вконтакте",
+      "одноклассники",
+      "контент-план",
+      "ведение соцсетей"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "SEO",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "seo",
+      "seo-",
+      "продвижение сайтов",
+      "раскрутка сайтов",
+      "продвижению сайтов",
+      "вывод в топ",
+      "поисковая оптимизация"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Контекстная реклама",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "яндекс.директ",
+      "yandex.direct",
+      "google ads",
+      "контекстная реклама",
+      "контекстной рекламы"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Копирайтинг",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "копирайтинг",
+      "copywriting",
+      "копирайтер"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "HR",
+    "type": "hard",
+    "category": "HR & Управление (Management)",
+    "aliases": [
+      "hr-менеджер",
+      "hr менеджер",
+      "подбор персонала",
+      "подбору персонала",
+      "hrbp",
+      "onboarding",
+      "адаптация новых сотрудников",
+      "адаптация сотрудников"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Рекрутинг",
+    "type": "hard",
+    "category": "HR & Управление (Management)",
+    "aliases": [
+      "рекрутинг",
+      "рекрутинга",
+      "recruiting",
+      "talent acquisition",
+      "sourcing",
+      "headhunting",
+      "подбор и найм"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Документооборот",
+    "type": "hard",
+    "category": "Офисные инструменты & Корпоративное ПО",
+    "aliases": [
+      "документооборот",
+      "документооборота",
+      "делопроизводство",
+      "электронный документооборот"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Управление персоналом",
+    "type": "hard",
+    "category": "HR & Управление (Management)",
+    "aliases": [
+      "управление персоналом",
+      "управления персоналом",
+      "team management",
+      "управление командой",
+      "управлением командой",
+      "people management",
+      "employee relations",
+      "labor relations",
+      "succession planning"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Кадровое делопроизводство",
+    "type": "hard",
+    "category": "HR & Управление (Management)",
+    "aliases": [
+      "кадровое делопроизводство",
+      "кадровый учет",
+      "кадрового учета"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Презентации",
+    "type": "hard",
+    "category": "Soft Skills",
+    "aliases": [
+      "презентаци",
+      "presentation skills",
+      "public speaking"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "ГИС",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "гис",
+      "gis",
+      "arcgis",
+      "qgis",
+      "геоинформацион"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Геодезия",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "геодези"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "BIM",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "bim",
+      "revit",
+      "архикад",
+      "archicad",
+      "navisworks"
+    ]
+  },
+  {
+    "id": 182,
+    "name": "AutoCAD",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "autocad",
+      "автокад"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Photoshop",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "photoshop",
+      "adobe photoshop",
+      "фотошоп"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Illustrator",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "illustrator",
+      "adobe illustrator",
+      "иллюстратор"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "InDesign",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "indesign"
+    ]
+  },
+  {
+    "id": 186,
+    "name": "After Effects",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "after effects"
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Premiere Pro",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "premiere pro",
+      "adobe premiere"
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Tilda",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "tilda",
+      "тильда"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "WordPress",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "wordpress",
+      "вордпресс"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Magento",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "magento"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Shopify",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "shopify"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Переговоры",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "переговоры",
+      "переговоров",
+      "negotiation",
+      "ведение переговоров"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Немецкий язык",
+    "type": "soft",
+    "category": "Иностранные языки",
+    "aliases": [
+      "немецкий",
+      "немецкого",
+      "german",
+      "deutsch"
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Китайский язык",
+    "type": "soft",
+    "category": "Иностранные языки",
+    "aliases": [
+      "китайский",
+      "китайского",
+      "chinese",
+      "мандарин",
+      "mandarin"
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Французский язык",
+    "type": "soft",
+    "category": "Иностранные языки",
+    "aliases": [
+      "французский",
+      "французского",
+      "french"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Испанский язык",
+    "type": "soft",
+    "category": "Иностранные языки",
+    "aliases": [
+      "испанский",
+      "испанского",
+      "spanish",
+      "bilingual spanish"
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Microsoft SQL Server",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "sql server",
+      "mssql",
+      "ms sql",
+      "tsql",
+      "t-sql",
+      "sql сервер"
+    ]
+  },
+  {
+    "id": 198,
+    "name": "iOS / Android",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "ios",
+      "android",
+      "мобильная разработка",
+      "мобильных приложений",
+      "mobile development",
+      "android studio",
+      "xcode"
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Express",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "express",
+      "express.js",
+      "node express",
+      "экспресс"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "NestJS",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "nestjs",
+      "nest.js"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Redux",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "redux",
+      "redux toolkit",
+      "редакс"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Sass/SCSS",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "sass",
+      "scss"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Bootstrap",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "bootstrap",
+      "bootstrap 4",
+      "bootstrap 5",
+      "бутстрап"
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Webpack",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "webpack",
+      "vite",
+      "rollup",
+      "esbuild",
+      "вебпак"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Svelte",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "svelte"
+    ]
+  },
+  {
+    "id": 206,
+    "name": "Nuxt",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "nuxt",
+      "nuxt.js",
+      "нукст"
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Gatsby",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "gatsby"
+    ]
+  },
+  {
+    "id": 208,
+    "name": "Tailwind",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "tailwind",
+      "tailwindcss"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Scala",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "scala",
+      "скала"
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Groovy",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "groovy",
+      "груви"
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Perl",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "perl",
+      "перл"
+    ]
+  },
+  {
+    "id": 212,
+    "name": "Delphi/Pascal",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "pascal",
+      "delphi",
+      "дельфи",
+      "паскаль"
+    ]
+  },
+  {
+    "id": 213,
+    "name": "Assembly",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "assembler",
+      "asm",
+      "ассемблер"
+    ]
+  },
+  {
+    "id": 214,
+    "name": "Fortran",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "fortran",
+      "фортран"
+    ]
+  },
+  {
+    "id": 215,
+    "name": "Cobol",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "cobol",
+      "кобол"
+    ]
+  },
+  {
+    "id": 216,
+    "name": "ABAP",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "abap"
+    ]
+  },
+  {
+    "id": 217,
+    "name": "Elixir",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "elixir"
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Haskell",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "haskell",
+      "хаскель"
+    ]
+  },
+  {
+    "id": 219,
+    "name": "Lua",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "lua",
+      "луа"
+    ]
+  },
+  {
+    "id": 220,
+    "name": "MATLAB/Simulink",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "matlab",
+      "simulink",
+      "матлаб"
+    ]
+  },
+  {
+    "id": 221,
+    "name": "R",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "r programming",
+      "rstudio",
+      "r studio",
+      "язык r"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Stata",
+    "type": "hard",
+    "category": "Аналитика данных & Продукт",
+    "aliases": [
+      "stata",
+      "стата"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "SAS",
+    "type": "hard",
+    "category": "Аналитика данных & Продукт",
+    "aliases": [
+      "sas",
+      "sas base",
+      "sas enterprise",
+      "sas studio"
+    ]
+  },
+  {
+    "id": 224,
+    "name": "XML",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "xml",
+      "extensible markup language"
+    ]
+  },
+  {
+    "id": 225,
+    "name": "YAML",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "yaml",
+      "yml"
+    ]
+  },
+  {
+    "id": 226,
+    "name": "SOAP",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "soap",
+      "soap api",
+      "soap web services"
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Swagger/OpenAPI",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "swagger",
+      "openapi",
+      "swagger ui"
+    ]
+  },
+  {
+    "id": 228,
+    "name": "PowerShell",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "powershell",
+      "power shell",
+      "павершелл"
+    ]
+  },
+  {
+    "id": 229,
+    "name": "Windows Server",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "windows server",
+      "windows",
+      "ms windows",
+      "windows 10",
+      "windows 11"
+    ]
+  },
+  {
+    "id": 230,
+    "name": "MS Office",
+    "type": "hard",
+    "category": "Офисные инструменты & Корпоративное ПО",
+    "aliases": [
+      "ms office",
+      "microsoft office",
+      "офисный пакет",
+      "офисные программы",
+      "office 365",
+      "microsoft 365",
+      "m365"
+    ]
+  },
+  {
+    "id": 231,
+    "name": "MS Access",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "ms access",
+      "microsoft access",
+      "access базы",
+      "база access"
+    ]
+  },
+  {
+    "id": 232,
+    "name": "Big Data",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "big data",
+      "большие данные",
+      "больших данных"
+    ]
+  },
+  {
+    "id": 233,
+    "name": "Data Warehouse",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "data warehouse",
+      "хранилище данных",
+      "хранилища данных",
+      "dwh"
+    ]
+  },
+  {
+    "id": 234,
+    "name": "Data Lake",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "data lake",
+      "озеро данных"
+    ]
+  },
+  {
+    "id": 235,
+    "name": "OLAP",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "olap",
+      "кубы данных",
+      "куб данных"
+    ]
+  },
+  {
+    "id": 236,
+    "name": "dbt",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "dbt",
+      "data build tool"
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Snowflake",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "snowflake"
+    ]
+  },
+  {
+    "id": 238,
+    "name": "Databricks",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "databricks"
+    ]
+  },
+  {
+    "id": 239,
+    "name": "Teradata",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "teradata"
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Vertica",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "vertica"
+    ]
+  },
+  {
+    "id": 241,
+    "name": "Greenplum",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "greenplum"
+    ]
+  },
+  {
+    "id": 242,
+    "name": "Amazon Redshift",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "redshift",
+      "amazon redshift",
+      "aws redshift"
+    ]
+  },
+  {
+    "id": 243,
+    "name": "Google BigQuery",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "bigquery",
+      "google bigquery"
+    ]
+  },
+  {
+    "id": 244,
+    "name": "Trino/Presto",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "presto",
+      "trino",
+      "prestodb"
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Impala",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "impala",
+      "apache impala"
+    ]
+  },
+  {
+    "id": 246,
+    "name": "HBase",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "hbase",
+      "apache hbase"
+    ]
+  },
+  {
+    "id": 247,
+    "name": "Druid",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "druid",
+      "apache druid"
+    ]
+  },
+  {
+    "id": 248,
+    "name": "Apache Flink",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "flink",
+      "apache flink"
+    ]
+  },
+  {
+    "id": 249,
+    "name": "Apache Storm",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "storm",
+      "apache storm"
+    ]
+  },
+  {
+    "id": 250,
+    "name": "Apache Beam",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "beam",
+      "apache beam"
+    ]
+  },
+  {
+    "id": 251,
+    "name": "Delta Lake",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "delta lake"
+    ]
+  },
+  {
+    "id": 252,
+    "name": "Pulsar",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "pulsar",
+      "apache pulsar"
+    ]
+  },
+  {
+    "id": 253,
+    "name": "NATS",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "nats",
+      "nats.io"
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Memcached",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "memcached"
+    ]
+  },
+  {
+    "id": 255,
+    "name": "InfluxDB",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "influxdb",
+      "influx"
+    ]
+  },
+  {
+    "id": 256,
+    "name": "CouchDB",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "couchdb",
+      "apache couchdb"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Couchbase",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "couchbase"
+    ]
+  },
+  {
+    "id": 258,
+    "name": "Amazon DynamoDB",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "dynamodb",
+      "aws dynamodb"
+    ]
+  },
+  {
+    "id": 259,
+    "name": "ScyllaDB",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "scylla",
+      "scylladb"
+    ]
+  },
+  {
+    "id": 260,
+    "name": "Apache Solr",
+    "type": "hard",
+    "category": "Базы данных & Big Data",
+    "aliases": [
+      "solr",
+      "apache solr"
+    ]
+  },
+  {
+    "id": 261,
+    "name": "Zookeeper",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "zookeeper",
+      "apache zookeeper"
+    ]
+  },
+  {
+    "id": 262,
+    "name": "Consul",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "consul",
+      "hashicorp consul"
+    ]
+  },
+  {
+    "id": 263,
+    "name": "Vault",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "vault",
+      "hashicorp vault"
+    ]
+  },
+  {
+    "id": 264,
+    "name": "Istio",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "istio"
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Helm",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "helm",
+      "helm charts"
+    ]
+  },
+  {
+    "id": 266,
+    "name": "ArgoCD",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "argocd",
+      "argo cd"
+    ]
+  },
+  {
+    "id": 267,
+    "name": "GitHub Actions",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "github actions",
+      "gha"
+    ]
+  },
+  {
+    "id": 268,
+    "name": "GitLab CI",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "gitlab ci",
+      "gitlab-ci",
+      "gitlab ci/cd"
+    ]
+  },
+  {
+    "id": 269,
+    "name": "TeamCity",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "teamcity"
+    ]
+  },
+  {
+    "id": 270,
+    "name": "CircleCI",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "circleci"
+    ]
+  },
+  {
+    "id": 271,
+    "name": "Travis CI",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "travis",
+      "travis ci"
+    ]
+  },
+  {
+    "id": 272,
+    "name": "Puppet",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "puppet"
+    ]
+  },
+  {
+    "id": 273,
+    "name": "Chef",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "chef",
+      "chef server"
+    ]
+  },
+  {
+    "id": 274,
+    "name": "SaltStack",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "saltstack",
+      "salt stack"
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Nagios",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "nagios"
+    ]
+  },
+  {
+    "id": 276,
+    "name": "Grafana Loki",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "loki"
+    ]
+  },
+  {
+    "id": 277,
+    "name": "OpenTelemetry",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "opentelemetry",
+      "otel"
+    ]
+  },
+  {
+    "id": 278,
+    "name": "Jaeger",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "jaeger"
+    ]
+  },
+  {
+    "id": 279,
+    "name": "Zipkin",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "zipkin"
+    ]
+  },
+  {
+    "id": 280,
+    "name": "Datadog",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "datadog"
+    ]
+  },
+  {
+    "id": 281,
+    "name": "New Relic",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "new relic"
+    ]
+  },
+  {
+    "id": 282,
+    "name": "Dynatrace",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "dynatrace"
+    ]
+  },
+  {
+    "id": 283,
+    "name": "PagerDuty",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "pagerduty"
+    ]
+  },
+  {
+    "id": 284,
+    "name": "SRE",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "sre",
+      "site reliability engineering",
+      "site reliability"
+    ]
+  },
+  {
+    "id": 285,
+    "name": "Graylog",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "graylog"
+    ]
+  },
+  {
+    "id": 286,
+    "name": "Haproxy",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "haproxy"
+    ]
+  },
+  {
+    "id": 287,
+    "name": "Traefik",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "traefik"
+    ]
+  },
+  {
+    "id": 288,
+    "name": "Cloudflare",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "cloudflare"
+    ]
+  },
+  {
+    "id": 289,
+    "name": "OpenStack",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "openstack"
+    ]
+  },
+  {
+    "id": 290,
+    "name": "Hyper-V",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "hyper-v",
+      "hyperv",
+      "microsoft hyper-v"
+    ]
+  },
+  {
+    "id": 291,
+    "name": "Xen",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "xen",
+      "xen server"
+    ]
+  },
+  {
+    "id": 292,
+    "name": "Podman",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "podman"
+    ]
+  },
+  {
+    "id": 293,
+    "name": "Serverless",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "serverless",
+      "aws lambda",
+      "lambda functions",
+      "бессерверные"
+    ]
+  },
+  {
+    "id": 294,
+    "name": "Event-Driven Architecture",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "event driven",
+      "event-driven",
+      "событийная архитектура",
+      "событийно-ориентированная"
+    ]
+  },
+  {
+    "id": 295,
+    "name": "Message Broker",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "брокер сообщений",
+      "message broker",
+      "очередь сообщений",
+      "очереди сообщений"
+    ]
+  },
+  {
+    "id": 296,
+    "name": "Cloud Computing",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "cloud computing",
+      "облачные технологии",
+      "облачные вычисления",
+      "облачные сервисы",
+      "cloud"
+    ]
+  },
+  {
+    "id": 297,
+    "name": "MLflow",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "mlflow"
+    ]
+  },
+  {
+    "id": 298,
+    "name": "Kubeflow",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "kubeflow"
+    ]
+  },
+  {
+    "id": 299,
+    "name": "ONNX",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "onnx"
+    ]
+  },
+  {
+    "id": 300,
+    "name": "YOLO",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "yolo"
+    ]
+  },
+  {
+    "id": 301,
+    "name": "HuggingFace",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "huggingface",
+      "transformers",
+      "hugging face"
+    ]
+  },
+  {
+    "id": 302,
+    "name": "LangChain",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "langchain",
+      "lang chain"
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Ollama",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "ollama",
+      "llama",
+      "llama2",
+      "llama3"
+    ]
+  },
+  {
+    "id": 304,
+    "name": "BERT",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "bert",
+      "roberta",
+      "sbert",
+      "sentence-transformers"
+    ]
+  },
+  {
+    "id": 305,
+    "name": "CatBoost",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "catboost"
+    ]
+  },
+  {
+    "id": 306,
+    "name": "RAG",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "rag",
+      "retrieval augmented generation"
+    ]
+  },
+  {
+    "id": 307,
+    "name": "Embeddings",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "embedding",
+      "эмбеддинг"
+    ]
+  },
+  {
+    "id": 308,
+    "name": "Stable Diffusion",
+    "type": "hard",
+    "category": "Data Science & AI / ML",
+    "aliases": [
+      "stable diffusion",
+      "midjourney"
+    ]
+  },
+  {
+    "id": 309,
+    "name": "Data Visualization",
+    "type": "hard",
+    "category": "Аналитика данных & Продукт",
+    "aliases": [
+      "визуализация данных",
+      "data visualization",
+      "дашборд",
+      "dashboard",
+      "дашборды"
+    ]
+  },
+  {
+    "id": 310,
+    "name": "Статистический анализ",
+    "type": "hard",
+    "category": "Аналитика данных & Продукт",
+    "aliases": [
+      "статистический анализ",
+      "статистическая обработка",
+      "statistical analysis",
+      "статистика"
+    ]
+  },
+  {
+    "id": 311,
+    "name": "A/B тестирование",
+    "type": "hard",
+    "category": "Аналитика данных & Продукт",
+    "aliases": [
+      "a/b тестирование",
+      "ab-тестирование",
+      "ab тестирование",
+      "аб-тест",
+      "a/b-тесты",
+      "a/b testing",
+      "ab testing"
+    ]
+  },
+  {
+    "id": 312,
+    "name": "Продуктовая аналитика",
+    "type": "hard",
+    "category": "Аналитика данных & Продукт",
+    "aliases": [
+      "продуктовая аналитика",
+      "product analytics",
+      "продуктовые метрики"
+    ]
+  },
+  {
+    "id": 313,
+    "name": "Юнит-экономика",
+    "type": "hard",
+    "category": "Аналитика данных & Продукт",
+    "aliases": [
+      "юнит-экономика",
+      "unit economics",
+      "юнит экономика"
+    ]
+  },
+  {
+    "id": 314,
+    "name": "Методологии разработки",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "waterfall",
+      "водопадная модель",
+      "scrum ban",
+      "crystal",
+      "fdd"
+    ]
+  },
+  {
+    "id": 315,
+    "name": "UX/UI дизайн",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "ux",
+      "ui",
+      "ux/ui",
+      "ui/ux",
+      "ux-дизайн",
+      "дизайн интерфейсов",
+      "юзабилити",
+      "прототипирование",
+      "ux-исследования",
+      "ux research",
+      "user research",
+      "usability testing",
+      "user interviews",
+      "product design",
+      "product designer",
+      "wireframing",
+      "wireframes",
+      "mockups"
+    ]
+  },
+  {
+    "id": 316,
+    "name": "Исследования рынка",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "исследование рынка",
+      "исследования рынка",
+      "market research",
+      "маркетинговые исследования",
+      "анализ рынка"
+    ]
+  },
+  {
+    "id": 317,
+    "name": "Таргетированная реклама",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "таргетированная реклама",
+      "таргетинг",
+      "таргет",
+      "таргетированному",
+      "таргетолог"
+    ]
+  },
+  {
+    "id": 318,
+    "name": "Колл-центр",
+    "type": "hard",
+    "category": "Продажи & Работа с клиентами",
+    "aliases": [
+      "колл-центр",
+      "call center",
+      "call-центр",
+      "обзвон",
+      "холодные звонки",
+      "телемаркетинг"
+    ]
+  },
+  {
+    "id": 319,
+    "name": "Продажи",
+    "type": "hard",
+    "category": "Продажи & Работа с клиентами",
+    "aliases": [
+      "продажи",
+      "продаж",
+      "активные продажи",
+      "прямые продажи",
+      "продажам",
+      "sales",
+      "b2b sales",
+      "inside sales",
+      "outside sales",
+      "direct sales",
+      "account management"
+    ]
+  },
+  {
+    "id": 320,
+    "name": "Работа с клиентами",
+    "type": "hard",
+    "category": "Продажи & Работа с клиентами",
+    "aliases": [
+      "работа с клиентами",
+      "клиентский сервис",
+      "клиентоориентированность",
+      "customer service",
+      "customer care",
+      "работе с клиентами",
+      "client relations",
+      "client relationship management"
+    ]
+  },
+  {
+    "id": 321,
+    "name": "B2B продажи",
+    "type": "hard",
+    "category": "Продажи & Работа с клиентами",
+    "aliases": [
+      "b2b",
+      "b2b-продажи",
+      "b2b продажи"
+    ]
+  },
+  {
+    "id": 322,
+    "name": "FMCG",
+    "type": "hard",
+    "category": "Продажи & Работа с клиентами",
+    "aliases": [
+      "fmcg",
+      "фмсг"
+    ]
+  },
+  {
+    "id": 323,
+    "name": "BTL-маркетинг",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "btl",
+      "btl-акции",
+      "промо-акции",
+      "промоушн"
+    ]
+  },
+  {
+    "id": 324,
+    "name": "Мерчандайзинг",
+    "type": "hard",
+    "category": "Продажи & Работа с клиентами",
+    "aliases": [
+      "мерчандайзинг",
+      "выкладка товара",
+      "мерчендайзинг",
+      "visual merchandising",
+      "planogram",
+      "store displays"
+    ]
+  },
+  {
+    "id": 325,
+    "name": "Госзакупки",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "госзакупки",
+      "тендер",
+      "тендеры",
+      "тендерная документация",
+      "44-фз",
+      "223-фз",
+      "электронные торги",
+      "электронный аукцион",
+      "сбербанк-аст",
+      "закупки по 44-фз"
+    ]
+  },
+  {
+    "id": 326,
+    "name": "ВЭД",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "вэд",
+      "внешнеэкономическая деятельность",
+      "таможенное оформление",
+      "таможенная декларация",
+      "инкотермс",
+      "trade compliance",
+      "export control",
+      "import compliance",
+      "import/export",
+      "international trade"
+    ]
+  },
+  {
+    "id": 327,
+    "name": "Складской учет",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "складской учет",
+      "складского учета",
+      "складской учёт",
+      "инвентаризация",
+      "товарный учет",
+      "warehouse",
+      "inventory management",
+      "inventory control",
+      "stock management",
+      "inventory"
+    ]
+  },
+  {
+    "id": 328,
+    "name": "Кассовые операции",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "кассовые операции",
+      "кассовая дисциплина",
+      "работа с кассой",
+      "кассового учета"
+    ]
+  },
+  {
+    "id": 329,
+    "name": "Банковское дело",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "банковское дело",
+      "банковские продукты",
+      "кредитование",
+      "кредитный",
+      "банковский"
+    ]
+  },
+  {
+    "id": 330,
+    "name": "Платежные системы",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "платежные системы",
+      "платежных систем",
+      "эквайринг",
+      "международные платежи"
+    ]
+  },
+  {
+    "id": 331,
+    "name": "Страхование",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "страхование",
+      "страховых",
+      "страховой",
+      "insurance"
+    ]
+  },
+  {
+    "id": 332,
+    "name": "Инвестиции",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "инвестиции",
+      "инвестиционных",
+      "инвестиционный",
+      "инвестиционная"
+    ]
+  },
+  {
+    "id": 333,
+    "name": "Финансовый мониторинг",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "финансовый мониторинг",
+      "пво",
+      "115-фз"
+    ]
+  },
+  {
+    "id": 334,
+    "name": "1С Бухгалтерия",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "1с бухгалтерия",
+      "1с:бухгалтерия",
+      "1с 8 бухгалтерия"
+    ]
+  },
+  {
+    "id": 335,
+    "name": "1С Управление торговлей",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "1с управление торговлей",
+      "1с:управление торговлей",
+      "1с торговля",
+      "1с:торговля"
+    ]
+  },
+  {
+    "id": 336,
+    "name": "1С ЗУП",
+    "type": "hard",
+    "category": "HR & Управление (Management)",
+    "aliases": [
+      "1с зуп",
+      "1с:зуп",
+      "зарплата и управление персоналом",
+      "зуп"
+    ]
+  },
+  {
+    "id": 337,
+    "name": "Контур",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "контур.экстерн",
+      "контур бухгалтерия",
+      "контур.диадок",
+      "эвотор"
+    ]
+  },
+  {
+    "id": 338,
+    "name": "СБИС",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "сбис",
+      "сбит"
+    ]
+  },
+  {
+    "id": 339,
+    "name": "Такском",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "такском"
+    ]
+  },
+  {
+    "id": 340,
+    "name": "Клиент-Банк",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "клиент-банк",
+      "банк-клиент",
+      "интернет-банк"
+    ]
+  },
+  {
+    "id": 341,
+    "name": "Охрана труда",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "охрана труда",
+      "охраны труда",
+      "техника безопасности",
+      "пожарная безопасность",
+      "электробезопасность",
+      "промышленная безопасность",
+      "hazmat",
+      "hazardous materials",
+      "опасные грузы"
+    ]
+  },
+  {
+    "id": 342,
+    "name": "Сметное дело",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "сметное дело",
+      "сметы",
+      "сметная документация",
+      "гранд-смета",
+      "проектно-сметная"
+    ]
+  },
+  {
+    "id": 343,
+    "name": "Строительный контроль",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "строительный контроль",
+      "строительных работ",
+      "производство работ",
+      "исполнительная документация"
+    ]
+  },
+  {
+    "id": 344,
+    "name": "Электромонтаж",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "электромонтаж",
+      "электромонтажные",
+      "электрощитовое"
+    ]
+  },
+  {
+    "id": 345,
+    "name": "Сантехнические работы",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "сантехнические",
+      "сантехник",
+      "отопление",
+      "водоснабжение"
+    ]
+  },
+  {
+    "id": 346,
+    "name": "Сварочные работы",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "сварочные работы",
+      "сварка",
+      "сварщик"
+    ]
+  },
+  {
+    "id": 347,
+    "name": "Станки с ЧПУ",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "чпу",
+      "станки с чпу",
+      "токарный",
+      "фрезерный",
+      "cnc"
+    ]
+  },
+  {
+    "id": 348,
+    "name": "Грузоперевозки",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "грузоперевозки",
+      "доставка грузов",
+      "транспортная логистика",
+      "перевозка грузов"
+    ]
+  },
+  {
+    "id": 349,
+    "name": "Водительское удостоверение",
+    "type": "hard",
+    "category": "Образование, Сервис & Рабочие профессии",
+    "aliases": [
+      "водительское удостоверение",
+      "водительские права",
+      "категория b",
+      "категория c",
+      "права категории",
+      "стаж вождения",
+      "cdl",
+      "truck driving",
+      "commercial driver's license",
+      "class a cdl",
+      "class b cdl"
+    ]
+  },
+  {
+    "id": 350,
+    "name": "Медицинская книжка",
+    "type": "hard",
+    "category": "Медицина, Фармацевтика & Уход",
+    "aliases": [
+      "медицинская книжка",
+      "санитарная книжка",
+      "медицинский осмотр"
+    ]
+  },
+  {
+    "id": 351,
+    "name": "Фармацевтика",
+    "type": "hard",
+    "category": "Медицина, Фармацевтика & Уход",
+    "aliases": [
+      "фармацевтика",
+      "фармацевтический",
+      "аптека",
+      "лекарственные"
+    ]
+  },
+  {
+    "id": 352,
+    "name": "Медицина",
+    "type": "hard",
+    "category": "Медицина, Фармацевтика & Уход",
+    "aliases": [
+      "медицинский",
+      "медицинская",
+      "медицинское",
+      "здравоохранение",
+      "клиника",
+      "врач"
+    ]
+  },
+  {
+    "id": 353,
+    "name": "Педагогика",
+    "type": "hard",
+    "category": "Образование, Сервис & Рабочие профессии",
+    "aliases": [
+      "педагогика",
+      "педагогическ",
+      "преподавание",
+      "преподавал",
+      "репетитор",
+      "учебный процесс",
+      "special education",
+      "iep",
+      "esl",
+      "tesol",
+      "tefl",
+      "lms",
+      "canvas",
+      "blackboard",
+      "moodle",
+      "google classroom",
+      "curriculum development",
+      "lesson planning",
+      "instructional design"
+    ]
+  },
+  {
+    "id": 354,
+    "name": "Психология",
+    "type": "hard",
+    "category": "Образование, Сервис & Рабочие профессии",
+    "aliases": [
+      "психология",
+      "психологическ",
+      "коучинг",
+      "коуч"
+    ]
+  },
+  {
+    "id": 355,
+    "name": "Общепит",
+    "type": "hard",
+    "category": "Образование, Сервис & Рабочие профессии",
+    "aliases": [
+      "общепит",
+      "ресторан",
+      "повар",
+      "бариста",
+      "официант",
+      "кафе",
+      "catering",
+      "banquet",
+      "кейтеринг"
+    ]
+  },
+  {
+    "id": 356,
+    "name": "Гостиничный сервис",
+    "type": "hard",
+    "category": "Образование, Сервис & Рабочие профессии",
+    "aliases": [
+      "гостиничный",
+      "гостиница",
+      "отель",
+      "администратор отеля",
+      "hotel"
+    ]
+  },
+  {
+    "id": 357,
+    "name": "Аналитическое мышление",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "аналитическое мышление",
+      "аналитический склад"
+    ]
+  },
+  {
+    "id": 358,
+    "name": "Креативность",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "креативность",
+      "креативн",
+      "творческий подход",
+      "creativity",
+      "творческое мышление"
+    ]
+  },
+  {
+    "id": 359,
+    "name": "Внимательность",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "внимательность",
+      "внимателен",
+      "attention to detail",
+      "внимательная"
+    ]
+  },
+  {
+    "id": 360,
+    "name": "Многозадачность",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "многозадачность",
+      "multitasking",
+      "multi-tasking"
+    ]
+  },
+  {
+    "id": 361,
+    "name": "Стрессоустойчивость",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "стрессоустойчивость",
+      "стрессоустойчивый",
+      "стрессоустойчивая",
+      "устойчивость к стрессу"
+    ]
+  },
+  {
+    "id": 362,
+    "name": "Самостоятельность",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "самостоятельность",
+      "самостоятельн",
+      "самоорганизация",
+      "самоорганизован"
+    ]
+  },
+  {
+    "id": 363,
+    "name": "Инициативность",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "инициативность",
+      "инициативн",
+      "инициатива"
+    ]
+  },
+  {
+    "id": 364,
+    "name": "Трудолюбие",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "трудолюбие",
+      "трудолюбивый"
+    ]
+  },
+  {
+    "id": 365,
+    "name": "Честность",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "честность",
+      "честный",
+      "порядочность"
+    ]
+  },
+  {
+    "id": 366,
+    "name": "Самомотивация",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "самомотивация",
+      "мотивация",
+      "самомотивирован"
+    ]
+  },
+  {
+    "id": 367,
+    "name": "Целеустремленность",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "целеустремленность",
+      "целеустремленный",
+      "амбициозность",
+      "амбициозн"
+    ]
+  },
+  {
+    "id": 368,
+    "name": "Вежливость",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "вежливость",
+      "вежливый",
+      "тактичность"
+    ]
+  },
+  {
+    "id": 369,
+    "name": "Русский язык",
+    "type": "soft",
+    "category": "Иностранные языки",
+    "aliases": [
+      "русский язык",
+      "родной язык",
+      "russian",
+      "native russian"
+    ]
+  },
+  {
+    "id": 370,
+    "name": "Турецкий язык",
+    "type": "soft",
+    "category": "Иностранные языки",
+    "aliases": [
+      "турецкий",
+      "turkish"
+    ]
+  },
+  {
+    "id": 371,
+    "name": "Итальянский язык",
+    "type": "soft",
+    "category": "Иностранные языки",
+    "aliases": [
+      "итальянский",
+      "italian"
+    ]
+  },
+  {
+    "id": 372,
+    "name": "Польский язык",
+    "type": "soft",
+    "category": "Иностранные языки",
+    "aliases": [
+      "польский",
+      "polish"
+    ]
+  },
+  {
+    "id": 373,
+    "name": "Арабский язык",
+    "type": "soft",
+    "category": "Иностранные языки",
+    "aliases": [
+      "арабский",
+      "arabic"
+    ]
+  },
+  {
+    "id": 374,
+    "name": "Эстонский язык",
+    "type": "soft",
+    "category": "Иностранные языки",
+    "aliases": [
+      "эстонский",
+      "estonian"
+    ]
+  },
+  {
+    "id": 375,
+    "name": "Казахский язык",
+    "type": "soft",
+    "category": "Иностранные языки",
+    "aliases": [
+      "казахский",
+      "kazakh"
+    ]
+  },
+  {
+    "id": 376,
+    "name": "Белорусский язык",
+    "type": "soft",
+    "category": "Иностранные языки",
+    "aliases": [
+      "белорусский",
+      "belarusian"
+    ]
+  },
+  {
+    "id": 377,
+    "name": "Украинский язык",
+    "type": "soft",
+    "category": "Иностранные языки",
+    "aliases": [
+      "украинский",
+      "ukrainian"
+    ]
+  },
+  {
+    "id": 378,
+    "name": "BLS/CPR",
+    "type": "hard",
+    "category": "Медицина, Фармацевтика & Уход",
+    "aliases": [
+      "bls",
+      "cpr",
+      "basic life support",
+      "cardiopulmonary resuscitation",
+      "сердечно-легочная реанимация"
+    ]
+  },
+  {
+    "id": 379,
+    "name": "Уход за пациентами",
+    "type": "hard",
+    "category": "Медицина, Фармацевтика & Уход",
+    "aliases": [
+      "patient care",
+      "caregiving",
+      "caregiver",
+      "cna",
+      "cna certification",
+      "уход за пациентами"
+    ]
+  },
+  {
+    "id": 380,
+    "name": "Психическое здоровье",
+    "type": "hard",
+    "category": "Медицина, Фармацевтика & Уход",
+    "aliases": [
+      "behavioral health",
+      "mental health",
+      "counseling",
+      "counselling",
+      "психическое здоровье"
+    ]
+  },
+  {
+    "id": 381,
+    "name": "Медсестринское дело",
+    "type": "hard",
+    "category": "Медицина, Фармацевтика & Уход",
+    "aliases": [
+      "lpn",
+      "rn license",
+      "registered nurse",
+      "медсестра",
+      "nursing"
+    ]
+  },
+  {
+    "id": 382,
+    "name": "ЭКГ/Телеметрия",
+    "type": "hard",
+    "category": "Медицина, Фармацевтика & Уход",
+    "aliases": [
+      "ekg",
+      "ecg",
+      "telemetry",
+      "экг"
+    ]
+  },
+  {
+    "id": 383,
+    "name": "Радиология",
+    "type": "hard",
+    "category": "Медицина, Фармацевтика & Уход",
+    "aliases": [
+      "radiology",
+      "ultrasound",
+      "mri",
+      "ct scan",
+      "x-ray",
+      "radiologic",
+      "радиология"
+    ]
+  },
+  {
+    "id": 384,
+    "name": "Уход на дому",
+    "type": "hard",
+    "category": "Медицина, Фармацевтика & Уход",
+    "aliases": [
+      "home health",
+      "home care",
+      "home healthcare",
+      "уход на дому"
+    ]
+  },
+  {
+    "id": 385,
+    "name": "Флеботомия",
+    "type": "hard",
+    "category": "Медицина, Фармацевтика & Уход",
+    "aliases": [
+      "phlebotomy",
+      "забор крови"
+    ]
+  },
+  {
+    "id": 386,
+    "name": "Медицинское кодирование",
+    "type": "hard",
+    "category": "Медицина, Фармацевтика & Уход",
+    "aliases": [
+      "medical billing",
+      "icd-10",
+      "icd10",
+      "cpt coding",
+      "medical coding",
+      "billing and coding"
+    ]
+  },
+  {
+    "id": 387,
+    "name": "HIPAA",
+    "type": "hard",
+    "category": "Медицина, Фармацевтика & Уход",
+    "aliases": [
+      "hipaa"
+    ]
+  },
+  {
+    "id": 388,
+    "name": "EMR/EHR",
+    "type": "hard",
+    "category": "Медицина, Фармацевтика & Уход",
+    "aliases": [
+      "emr",
+      "ehr",
+      "electronic medical records",
+      "electronic health records"
+    ]
+  },
+  {
+    "id": 389,
+    "name": "Epic (EMR)",
+    "type": "hard",
+    "category": "Медицина, Фармацевтика & Уход",
+    "aliases": [
+      "epic"
+    ]
+  },
+  {
+    "id": 390,
+    "name": "Реабилитация/Терапия",
+    "type": "hard",
+    "category": "Медицина, Фармацевтика & Уход",
+    "aliases": [
+      "physical therapy",
+      "occupational therapy",
+      "speech therapy",
+      "физиотерапия",
+      "эрготерапия"
+    ]
+  },
+  {
+    "id": 391,
+    "name": "Бухгалтерский учёт (EN)",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "bookkeeping",
+      "general ledger",
+      "book keeper"
+    ]
+  },
+  {
+    "id": 392,
+    "name": "Дебеторка/Кредиторка",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "accounts payable",
+      "accounts receivable",
+      "ap/ar",
+      "кредиторская задолженность",
+      "дебиторская задолженность"
+    ]
+  },
+  {
+    "id": 393,
+    "name": "Финансовая отчётность",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "financial reporting",
+      "financial statements",
+      "p&l management",
+      "profit and loss",
+      "финансовая отчетность"
+    ]
+  },
+  {
+    "id": 394,
+    "name": "Бюджетирование",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "budgeting",
+      "forecasting",
+      "variance analysis",
+      "budget management",
+      "бюджетирование"
+    ]
+  },
+  {
+    "id": 395,
+    "name": "Зарплатные системы (EN)",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "adp",
+      "paychex",
+      "kronos"
+    ]
+  },
+  {
+    "id": 396,
+    "name": "QuickBooks",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "quickbooks",
+      "quick books"
+    ]
+  },
+  {
+    "id": 397,
+    "name": "NetSuite",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "netsuite",
+      "net suite"
+    ]
+  },
+  {
+    "id": 398,
+    "name": "Sage",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "sage"
+    ]
+  },
+  {
+    "id": 399,
+    "name": "SOX-комплаенс",
+    "type": "hard",
+    "category": "Юриспруденция & Комплаенс",
+    "aliases": [
+      "sox",
+      "sarbanes-oxley"
+    ]
+  },
+  {
+    "id": 400,
+    "name": "AML/KYC",
+    "type": "hard",
+    "category": "Юриспруденция & Комплаенс",
+    "aliases": [
+      "aml",
+      "kyc",
+      "anti-money laundering",
+      "know your customer"
+    ]
+  },
+  {
+    "id": 401,
+    "name": "Кредитный анализ",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "credit analysis",
+      "underwriting",
+      "loan underwriting",
+      "кредитный скоринг"
+    ]
+  },
+  {
+    "id": 402,
+    "name": "Урегулирование претензий",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "claims processing",
+      "claims handling",
+      "insurance claims"
+    ]
+  },
+  {
+    "id": 403,
+    "name": "Актуарные расчёты",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "actuarial",
+      "актуарные расчеты"
+    ]
+  },
+  {
+    "id": 404,
+    "name": "Банковские операции",
+    "type": "hard",
+    "category": "Финансы, Учёт & Закупки",
+    "aliases": [
+      "bank teller",
+      "teller",
+      "banking operations",
+      "cash handling",
+      "банковские операции"
+    ]
+  },
+  {
+    "id": 405,
+    "name": "Встраиваемые системы",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "embedded systems",
+      "firmware",
+      "microcontroller",
+      "embedded c",
+      "встраиваемые системы"
+    ]
+  },
+  {
+    "id": 406,
+    "name": "FPGA",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "fpga",
+      "vhdl",
+      "verilog"
+    ]
+  },
+  {
+    "id": 407,
+    "name": "Проектирование печатных плат",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "pcb design",
+      "altium",
+      "schematic design",
+      "печатные платы"
+    ]
+  },
+  {
+    "id": 408,
+    "name": "IoT",
+    "type": "hard",
+    "category": "DevOps, Cloud & SysAdmin",
+    "aliases": [
+      "iot",
+      "internet of things",
+      "raspberry pi",
+      "arduino",
+      "mqtt"
+    ]
+  },
+  {
+    "id": 409,
+    "name": "5G/LTE и RF",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "5g",
+      "lte",
+      "rf engineering",
+      "antenna design",
+      "signal processing"
+    ]
+  },
+  {
+    "id": 410,
+    "name": "Цифровая обработка сигналов",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "dsp",
+      "digital signal processing"
+    ]
+  },
+  {
+    "id": 411,
+    "name": "Робототехника (ROS)",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "ros",
+      "robotics",
+      "robot operating system",
+      "робототехника"
+    ]
+  },
+  {
+    "id": 412,
+    "name": "SolidWorks",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "solidworks"
+    ]
+  },
+  {
+    "id": 413,
+    "name": "CATIA",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "catia"
+    ]
+  },
+  {
+    "id": 414,
+    "name": "ANSYS",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "ansys"
+    ]
+  },
+  {
+    "id": 415,
+    "name": "DevSecOps",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "devsecops"
+    ]
+  },
+  {
+    "id": 416,
+    "name": "Zero Trust",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "zero trust"
+    ]
+  },
+  {
+    "id": 417,
+    "name": "EDR/XDR",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "edr",
+      "xdr",
+      "endpoint detection and response"
+    ]
+  },
+  {
+    "id": 418,
+    "name": "SOAR",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "soar"
+    ]
+  },
+  {
+    "id": 419,
+    "name": "DLP",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "dlp",
+      "data loss prevention"
+    ]
+  },
+  {
+    "id": 420,
+    "name": "IAM",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "iam",
+      "identity and access management",
+      "управление доступом"
+    ]
+  },
+  {
+    "id": 421,
+    "name": "PKI",
+    "type": "hard",
+    "category": "Сети & Кибербезопасность",
+    "aliases": [
+      "pki",
+      "public key infrastructure"
+    ]
+  },
+  {
+    "id": 422,
+    "name": "Веб-аналитика",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "google analytics",
+      "google tag manager",
+      "ga4",
+      "web analytics",
+      "веб-аналитика"
+    ]
+  },
+  {
+    "id": 423,
+    "name": "SEM/PPC",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "sem",
+      "ppc",
+      "paid search",
+      "pay-per-click",
+      "adwords",
+      "контекстная реклама google"
+    ]
+  },
+  {
+    "id": 424,
+    "name": "Реклама в соцсетях",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "facebook ads",
+      "meta ads",
+      "instagram ads",
+      "tiktok ads",
+      "youtube ads",
+      "реклама в соцсетях"
+    ]
+  },
+  {
+    "id": 425,
+    "name": "Email-маркетинг",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "email marketing",
+      "email campaigns",
+      "mailchimp",
+      "klaviyo",
+      "email-маркетинг"
+    ]
+  },
+  {
+    "id": 426,
+    "name": "Маркетинговая автоматизация",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "marketing automation",
+      "marketo",
+      "pardot",
+      "eloqua",
+      "автоматизация маркетинга"
+    ]
+  },
+  {
+    "id": 427,
+    "name": "Influencer-маркетинг",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "influencer marketing",
+      "influencers",
+      "creator marketing",
+      "лидеры мнений"
+    ]
+  },
+  {
+    "id": 428,
+    "name": "CRO",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "cro",
+      "conversion rate optimization",
+      "conversion optimization",
+      "оптимизация конверсии"
+    ]
+  },
+  {
+    "id": 429,
+    "name": "Бренд-менеджмент",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "brand management",
+      "brand strategy",
+      "branding",
+      "brand identity",
+      "бренд-менеджмент"
+    ]
+  },
+  {
+    "id": 430,
+    "name": "PR и связи с общественностью",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "public relations",
+      "press releases",
+      "media relations",
+      "связи с общественностью",
+      "пиар"
+    ]
+  },
+  {
+    "id": 431,
+    "name": "Организация мероприятий",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "event management",
+      "event planning",
+      "corporate events",
+      "организация мероприятий"
+    ]
+  },
+  {
+    "id": 432,
+    "name": "Контент-стратегия",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "content strategy",
+      "content marketing",
+      "content calendar",
+      "контент-стратегия"
+    ]
+  },
+  {
+    "id": 433,
+    "name": "Видеомонтаж",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "video editing",
+      "final cut pro",
+      "davinci resolve",
+      "motion graphics",
+      "видеомонтаж"
+    ]
+  },
+  {
+    "id": 434,
+    "name": "Фотография",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "photography",
+      "photo editing",
+      "lightroom",
+      "фотосъемка",
+      "фотография"
+    ]
+  },
+  {
+    "id": 435,
+    "name": "Графический дизайн",
+    "type": "hard",
+    "category": "Маркетинг, Дизайн & Контент",
+    "aliases": [
+      "graphic design",
+      "print design",
+      "logo design",
+      "графический дизайн"
+    ]
+  },
+  {
+    "id": 436,
+    "name": "Розничные продажи",
+    "type": "hard",
+    "category": "Продажи & Работа с клиентами",
+    "aliases": [
+      "retail sales",
+      "retail operations",
+      "retail",
+      "розничные продажи"
+    ]
+  },
+  {
+    "id": 437,
+    "name": "POS-системы",
+    "type": "hard",
+    "category": "Продажи & Работа с клиентами",
+    "aliases": [
+      "pos systems",
+      "point of sale",
+      "pos",
+      "кассовый аппарат",
+      "pos-терминал"
+    ]
+  },
+  {
+    "id": 438,
+    "name": "Водитель погрузчика",
+    "type": "hard",
+    "category": "Образование, Сервис & Рабочие профессии",
+    "aliases": [
+      "forklift",
+      "fork lift",
+      "погрузчик"
+    ]
+  },
+  {
+    "id": 439,
+    "name": "Авторемонт",
+    "type": "hard",
+    "category": "Образование, Сервис & Рабочие профессии",
+    "aliases": [
+      "auto mechanic",
+      "automotive repair",
+      "diesel mechanic",
+      "ase certification",
+      "автомеханик"
+    ]
+  },
+  {
+    "id": 440,
+    "name": "Тяжёлая техника",
+    "type": "hard",
+    "category": "Образование, Сервис & Рабочие профессии",
+    "aliases": [
+      "heavy equipment",
+      "excavator",
+      "loader operator",
+      "backhoe",
+      "тяжелая техника"
+    ]
+  },
+  {
+    "id": 441,
+    "name": "Видеонаблюдение",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "cctv",
+      "video surveillance",
+      "access control systems",
+      "видеонаблюдение"
+    ]
+  },
+  {
+    "id": 442,
+    "name": "Охранная деятельность",
+    "type": "hard",
+    "category": "Образование, Сервис & Рабочие профессии",
+    "aliases": [
+      "security guard",
+      "armed security",
+      "loss prevention",
+      "охранник"
+    ]
+  },
+  {
+    "id": 443,
+    "name": "Первая помощь",
+    "type": "hard",
+    "category": "Медицина, Фармацевтика & Уход",
+    "aliases": [
+      "first aid",
+      "osha",
+      "osha certification",
+      "первая помощь"
+    ]
+  },
+  {
+    "id": 444,
+    "name": "Клининг/Хаускипинг",
+    "type": "hard",
+    "category": "Образование, Сервис & Рабочие профессии",
+    "aliases": [
+      "housekeeping",
+      "cleaning services",
+      "уборка",
+      "клининг"
+    ]
+  },
+  {
+    "id": 445,
+    "name": "Туризм",
+    "type": "hard",
+    "category": "Образование, Сервис & Рабочие профессии",
+    "aliases": [
+      "tourism",
+      "travel planning",
+      "concierge",
+      "туризм"
+    ]
+  },
+  {
+    "id": 446,
+    "name": "Компенсации и льготы",
+    "type": "hard",
+    "category": "HR & Управление (Management)",
+    "aliases": [
+      "compensation and benefits",
+      "compensation & benefits",
+      "benefits administration",
+      "total rewards",
+      "salary benchmarking"
+    ]
+  },
+  {
+    "id": 447,
+    "name": "Управление эффективностью (KPI)",
+    "type": "hard",
+    "category": "HR & Управление (Management)",
+    "aliases": [
+      "performance management",
+      "performance reviews",
+      "kpi",
+      "kpi management",
+      "kpis",
+      "управление эффективностью"
+    ]
+  },
+  {
+    "id": 448,
+    "name": "HRIS/ATS",
+    "type": "hard",
+    "category": "HR & Управление (Management)",
+    "aliases": [
+      "hris",
+      "applicant tracking",
+      "workday",
+      "linkedin recruiter"
+    ]
+  },
+  {
+    "id": 449,
+    "name": "Обучение и развитие (L&D)",
+    "type": "hard",
+    "category": "HR & Управление (Management)",
+    "aliases": [
+      "training and development",
+      "learning and development",
+      "обучение и развитие",
+      "обучение персонала"
+    ]
+  },
+  {
+    "id": 450,
+    "name": "Судебная практика",
+    "type": "hard",
+    "category": "Юриспруденция & Комплаенс",
+    "aliases": [
+      "litigation",
+      "civil litigation",
+      "trial experience",
+      "арбитраж",
+      "судопроизводство"
+    ]
+  },
+  {
+    "id": 451,
+    "name": "Интеллектуальная собственность",
+    "type": "hard",
+    "category": "Юриспруденция & Комплаенс",
+    "aliases": [
+      "intellectual property",
+      "patents",
+      "trademarks",
+      "copyright",
+      "интеллектуальная собственность"
+    ]
+  },
+  {
+    "id": 452,
+    "name": "Due Diligence",
+    "type": "hard",
+    "category": "Юриспруденция & Комплаенс",
+    "aliases": [
+      "due diligence",
+      "mergers and acquisitions",
+      "сделки слияния и поглощения"
+    ]
+  },
+  {
+    "id": 453,
+    "name": "Иммиграционное право",
+    "type": "hard",
+    "category": "Юриспруденция & Комплаенс",
+    "aliases": [
+      "immigration law",
+      "immigration",
+      "иммиграционное право"
+    ]
+  },
+  {
+    "id": 454,
+    "name": "Стратегическое планирование",
+    "type": "hard",
+    "category": "HR & Управление (Management)",
+    "aliases": [
+      "strategic planning",
+      "strategy development",
+      "business strategy",
+      "стратегическое планирование"
+    ]
+  },
+  {
+    "id": 455,
+    "name": "Управление рисками",
+    "type": "hard",
+    "category": "Юриспруденция & Комплаенс",
+    "aliases": [
+      "risk management",
+      "risk assessment",
+      "risk mitigation",
+      "управление рисками"
+    ]
+  },
+  {
+    "id": 456,
+    "name": "Комплаенс",
+    "type": "hard",
+    "category": "Юриспруденция & Комплаенс",
+    "aliases": [
+      "regulatory compliance",
+      "regulatory affairs",
+      "compliance management",
+      "compliance",
+      "комплаенс"
+    ]
+  },
+  {
+    "id": 457,
+    "name": "Управление изменениями",
+    "type": "hard",
+    "category": "HR & Управление (Management)",
+    "aliases": [
+      "change management",
+      "управление изменениями"
+    ]
+  },
+  {
+    "id": 458,
+    "name": "Планирование спроса (S&OP)",
+    "type": "hard",
+    "category": "Инженерия, Производство & Строительство",
+    "aliases": [
+      "demand planning",
+      "supply planning",
+      "sales and operations planning",
+      "планирование спроса"
+    ]
+  },
+  {
+    "id": 459,
+    "name": "Microsoft Teams",
+    "type": "hard",
+    "category": "Офисные инструменты & Корпоративное ПО",
+    "aliases": [
+      "microsoft teams",
+      "ms teams",
+      "teams meeting",
+      "teams calls"
+    ]
+  },
+  {
+    "id": 460,
+    "name": "Zoom",
+    "type": "hard",
+    "category": "Офисные инструменты & Корпоративное ПО",
+    "aliases": [
+      "zoom",
+      "zoom meetings",
+      "зоом"
+    ]
+  },
+  {
+    "id": 461,
+    "name": "SharePoint",
+    "type": "hard",
+    "category": "Офисные инструменты & Корпоративное ПО",
+    "aliases": [
+      "sharepoint",
+      "share point"
+    ]
+  },
+  {
+    "id": 462,
+    "name": "Power Platform",
+    "type": "hard",
+    "category": "Разработка ПО",
+    "aliases": [
+      "power automate",
+      "power apps",
+      "power platform"
+    ]
+  },
+  {
+    "id": 463,
+    "name": "Ввод данных",
+    "type": "hard",
+    "category": "Образование, Сервис & Рабочие профессии",
+    "aliases": [
+      "data entry",
+      "typing",
+      "ввод данных",
+      "набор текста"
+    ]
+  },
+  {
+    "id": 464,
+    "name": "Разрешение конфликтов",
+    "type": "soft",
+    "category": "Soft Skills",
+    "aliases": [
+      "conflict resolution",
+      "de-escalation",
+      "разрешение конфликтов"
+    ]
+  },
+  {
+    "id": 465,
+    "name": "Португальский язык",
+    "type": "soft",
+    "category": "Иностранные языки",
+    "aliases": [
+      "portuguese",
+      "португальский"
+    ]
+  }
+]

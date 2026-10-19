@@ -11,7 +11,7 @@ BASE_DIR = Path(__file__).resolve().parent
 # Путь к словарю навыков
 SKILLS_DICT_PATH = BASE_DIR / "datasets_and_skills" / "skills" / "skills_dict_v2.json"
 
-# Пути к НОВЫМ русским датасетам (укажите свои названия и расширения .csv или .json)
+# Пути к НОВЫМ русским датасетам
 VACANCIES_PATH = BASE_DIR / "datasets_and_skills" / "datasets" / "vacancies_ru.csv"
 RESUMES_PATH = BASE_DIR / "datasets_and_skills" / "datasets" / "resumes_ru.csv"
 
